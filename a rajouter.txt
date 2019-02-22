@@ -1,0 +1,23 @@
+Guillaume LE GOFF 2eme année de web
+
+Je vous présente Occurens qui est mon devoir de fin de module
+site de rencontre avec des fonctionnabilité innérant : 
+	s'inscrire, 
+	renseigner des informations personnels, 
+	parler avec d'autre personne
+	liker un membre
+	barre de recherche	
+	systheme de notifications
+
+- Language de programation utilisé :
+	HTML : structure
+	CSS : l'apparence
+	PHP : language de communication avec le serveur mysql
+	MYSQL : les données sont enregistrer dans une base de donnée en ligne
+
+- Ce site est actuellement en ligne et adapter a tous les ecrans
+
+
+- Présentation du site 
+	on peut cliquer sur le profil d'un membre pour tchater avec lui
+ 
